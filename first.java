@@ -1,4 +1,5 @@
 public static void main(String args[])throws IOException
 {
  System.out.println("helloworld");
+ System.out.println("hi");
 }
